@@ -1,4 +1,6 @@
-# t
+# @headlessui/vue Listbox Multiple Mockup
+
+Quick mockup showing how a @headlessui/vue Listbox can be altered in order to allow selection of multiple values, as ling as this is not supported out of the box.
 
 ## Project setup
 ```
